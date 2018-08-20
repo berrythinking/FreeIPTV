@@ -7,7 +7,7 @@ AutoIPTV is the best free source of IPTV that actively finds new links and also 
 
 ----
 
-**One of the cool features that AutoIPTV offers is that it will try and remove all the broken links and only supply the working links.**
+**One of the cool features that AutoIPTV offers is that it will try and remove all the broken channels and only supply the working channels.**
 
 ## By donating you help to keep AutoIPTV *FREE*!
 
