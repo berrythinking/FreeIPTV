@@ -1,7 +1,7 @@
 # [AutoIPTV](https://autoiptv.net) - Watch Free IPTV World Wide
 
-| [AutoIPTV](https://autoiptv.net) | [Playlists](https://autoiptv.net/playlists) | [Contribute](https://autoiptv.net/contribute) |
-| ---- | ---- | ---- |
+| [AutoIPTV](https://autoiptv.net) | [Playlists](https://autoiptv.net/playlists) | [Contribute](https://autoiptv.net/contribute) | [Stream](https://autoiptv.net/stream) |
+| ---- | ---- | ---- | ---- |
 
 AutoIPTV is the best free source of IPTV that actively finds new links and also actively removes the broken links from the playlists.
 
