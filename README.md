@@ -14,5 +14,3 @@ AutoIPTV is the best free source of IPTV that actively finds new links and also 
 > [PayPal Me](https://paypal.me/Rampaigh)
 
 ## [https://autoiptv.net/](https://autoiptv.net/)
-
-[https://autoiptv.net/](http://autoiptv.net/test.php)
