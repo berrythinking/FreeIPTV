@@ -15,4 +15,4 @@ AutoIPTV is the best free source of IPTV that actively finds new links and also 
 
 ## [https://autoiptv.net/](https://autoiptv.net/)
 
-[https://autoiptv.net/](http://playlist.autoiptv.net/normal_new.php)
+[https://autoiptv.net/](http://autoiptv.net/test.php)
