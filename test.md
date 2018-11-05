@@ -1,1 +1,1 @@
-https://autoiptv.net/test.php
+http://autoiptv.net/test.php
