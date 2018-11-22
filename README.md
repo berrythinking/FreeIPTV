@@ -14,4 +14,3 @@ FreeIPTV is the best free source of IPTV that actively finds new links and also 
 > [PayPal Me](https://paypal.me/Rampaigh)
 
 ## [https://freeiptv.io/](https://freeiptv.io/)
-https://freeiptv.io/test.php
