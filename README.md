@@ -15,4 +15,7 @@ FreeIPTV is the best free source of IPTV that actively finds new links and also 
 
 ## [https://freeiptv.io/](https://freeiptv.io/)
 
+http://freeiptv.io/m3u/6m4n8_normal.php
 https://freeiptv.io/m3u/6m4n8_normal.php
+http://freeiptv.io/m3u/6m4n8_normal.php?type=m3u8
+https://freeiptv.io/m3u/6m4n8_normal.php?type=m3u8
