@@ -15,4 +15,4 @@ FreeIPTV is the best free source of IPTV that actively finds new links and also 
 
 ## [https://freeiptv.io/](https://freeiptv.io/)
 
-https://freeiptv.io/test.php
+http://freeiptv.io/test.php
