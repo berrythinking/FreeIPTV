@@ -1,6 +1,6 @@
 # [FreeIPTV](https://freeiptv.io/) • Watch Free IPTV World Wide
 
-| [FreeIPTV](https://freeiptv.io/) | [Playlists](https://freeiptv.io/playlists/) | [Contribute](https://freeiptv.io/contribute/) | [Stream](https://freeiptv.io/stream/) |
+| [Get Started](https://freeiptv.io/) | [Playlists](https://freeiptv.io/playlists/) | [Contribute](https://freeiptv.io/contribute/) | [Stream](https://freeiptv.io/stream/) |
 | ---- | ---- | ---- | ---- |
 
 FreeIPTV is the best free source of IPTV that actively finds new links and also actively removes the broken links from the playlists.
@@ -14,6 +14,3 @@ FreeIPTV is the best free source of IPTV that actively finds new links and also 
 > [PayPal Me](https://paypal.me/Rampaigh)
 
 ## [https://freeiptv.io/](https://freeiptv.io/)
-
-http://freeiptv.io/m3u/6m4n8_normal.php
-https://freeiptv.io/m3u/6m4n8_normal.php
